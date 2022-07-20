@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @altynbekamirzhanov
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning speech recognition.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me: altynbekamirzhanov988@gmail.com
 
